@@ -19,7 +19,7 @@ public class App_Activity  extends AppIntro {
         addSlide(SampleSlide.newInstance(R.layout.second_fragment));
         addSlide(SampleSlide.newInstance(R.layout.third_fragment));
 
-        // SHOW or HIDE the statusbar
+        // SHOW or HIDE the status bar
         showStatusBar(true);
         // Hide Skip/Done button
         showSkipButton(true);
