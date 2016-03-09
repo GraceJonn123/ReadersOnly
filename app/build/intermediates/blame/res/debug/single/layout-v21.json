@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/jaykayitare/AndroidStudioProjects/ReadersOnly/app/build/intermediates/res/merged/debug/layout-v21/intro_layout2.xml",
+        "source": "/home/jaykayitare/AndroidStudioProjects/ReadersOnly/app/build/intermediates/exploded-aar/com.github.paolorotolo/appintro/3.4.0/res/layout-v21/intro_layout2.xml"
+    },
+    {
+        "merged": "/home/jaykayitare/AndroidStudioProjects/ReadersOnly/app/build/intermediates/res/merged/debug/layout-v21/intro_layout.xml",
+        "source": "/home/jaykayitare/AndroidStudioProjects/ReadersOnly/app/build/intermediates/exploded-aar/com.github.paolorotolo/appintro/3.4.0/res/layout-v21/intro_layout.xml"
+    }
+]
