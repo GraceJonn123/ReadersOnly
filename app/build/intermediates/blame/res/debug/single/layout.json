@@ -16,12 +16,12 @@
         "source": "/home/jaykayitare/AndroidStudioProjects/ReadersOnly/app/build/intermediates/exploded-aar/com.android.support/design/23.2.0/res/layout/design_navigation_menu_item.xml"
     },
     {
-        "merged": "/home/jaykayitare/AndroidStudioProjects/ReadersOnly/app/build/intermediates/res/merged/debug/layout/design_bottom_sheet_dialog.xml",
-        "source": "/home/jaykayitare/AndroidStudioProjects/ReadersOnly/app/build/intermediates/exploded-aar/com.android.support/design/23.2.0/res/layout/design_bottom_sheet_dialog.xml"
-    },
-    {
         "merged": "/home/jaykayitare/AndroidStudioProjects/ReadersOnly/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
         "source": "/home/jaykayitare/AndroidStudioProjects/ReadersOnly/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/home/jaykayitare/AndroidStudioProjects/ReadersOnly/app/build/intermediates/res/merged/debug/layout/design_bottom_sheet_dialog.xml",
+        "source": "/home/jaykayitare/AndroidStudioProjects/ReadersOnly/app/build/intermediates/exploded-aar/com.android.support/design/23.2.0/res/layout/design_bottom_sheet_dialog.xml"
     },
     {
         "merged": "/home/jaykayitare/AndroidStudioProjects/ReadersOnly/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
@@ -136,6 +136,10 @@
         "source": "/home/jaykayitare/AndroidStudioProjects/ReadersOnly/app/build/intermediates/exploded-aar/com.android.support/design/23.2.0/res/layout/design_navigation_item.xml"
     },
     {
+        "merged": "/home/jaykayitare/AndroidStudioProjects/ReadersOnly/app/build/intermediates/res/merged/debug/layout/activity_main_lib.xml",
+        "source": "/home/jaykayitare/AndroidStudioProjects/ReadersOnly/app/build/intermediates/exploded-aar/com.github.ViksaaSkool/AwesomeSplash/v1.0.0/res/layout/activity_main_lib.xml"
+    },
+    {
         "merged": "/home/jaykayitare/AndroidStudioProjects/ReadersOnly/app/build/intermediates/res/merged/debug/layout/notification_template_lines.xml",
         "source": "/home/jaykayitare/AndroidStudioProjects/ReadersOnly/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/notification_template_lines.xml"
     },
@@ -206,10 +210,6 @@
     {
         "merged": "/home/jaykayitare/AndroidStudioProjects/ReadersOnly/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
         "source": "/home/jaykayitare/AndroidStudioProjects/ReadersOnly/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_dialog_title_material.xml"
-    },
-    {
-        "merged": "/home/jaykayitare/AndroidStudioProjects/ReadersOnly/app/build/intermediates/res/merged/debug/layout/fourth_fragment.xml",
-        "source": "/home/jaykayitare/AndroidStudioProjects/ReadersOnly/app/src/main/res/layout/fourth_fragment.xml"
     },
     {
         "merged": "/home/jaykayitare/AndroidStudioProjects/ReadersOnly/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
