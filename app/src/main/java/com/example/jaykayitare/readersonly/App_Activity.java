@@ -32,7 +32,7 @@ public class App_Activity  extends AppIntro {
 
     //
     private void loadMainActivity(){
-        Intent intent = new Intent(this, Landing_Page.class);
+        Intent intent = new Intent(this, LoginActivity.class);
         startActivity(intent);
     }
     @Override

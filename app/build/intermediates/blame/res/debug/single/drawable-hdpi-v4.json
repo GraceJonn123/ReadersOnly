@@ -8,6 +8,22 @@
         "source": "/home/jaykayitare/AndroidStudioProjects/ReadersOnly/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-hdpi-v4/abc_ic_search_api_mtrl_alpha.png"
     },
     {
+        "merged": "/home/jaykayitare/AndroidStudioProjects/ReadersOnly/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/com_facebook_button_send_icon_white.png",
+        "source": "/home/jaykayitare/AndroidStudioProjects/ReadersOnly/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.0/res/drawable-hdpi/com_facebook_button_send_icon_white.png"
+    },
+    {
+        "merged": "/home/jaykayitare/AndroidStudioProjects/ReadersOnly/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/com_facebook_favicon_white.png",
+        "source": "/home/jaykayitare/AndroidStudioProjects/ReadersOnly/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.0/res/drawable-hdpi/com_facebook_favicon_white.png"
+    },
+    {
+        "merged": "/home/jaykayitare/AndroidStudioProjects/ReadersOnly/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/com_facebook_tooltip_black_topnub.png",
+        "source": "/home/jaykayitare/AndroidStudioProjects/ReadersOnly/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.0/res/drawable-hdpi/com_facebook_tooltip_black_topnub.png"
+    },
+    {
+        "merged": "/home/jaykayitare/AndroidStudioProjects/ReadersOnly/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/com_facebook_tooltip_blue_topnub.png",
+        "source": "/home/jaykayitare/AndroidStudioProjects/ReadersOnly/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.0/res/drawable-hdpi/com_facebook_tooltip_blue_topnub.png"
+    },
+    {
         "merged": "/home/jaykayitare/AndroidStudioProjects/ReadersOnly/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_done_white_24px.png",
         "source": "/home/jaykayitare/AndroidStudioProjects/ReadersOnly/app/build/intermediates/exploded-aar/com.github.paolorotolo/appintro/3.4.0/res/drawable-hdpi-v4/ic_done_white_24px.png"
     },
@@ -16,12 +32,24 @@
         "source": "/home/jaykayitare/AndroidStudioProjects/ReadersOnly/app/build/generated/res/pngs/debug/drawable-hdpi/abc_btn_radio_off_mtrl.png"
     },
     {
+        "merged": "/home/jaykayitare/AndroidStudioProjects/ReadersOnly/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/messenger_button_send_round_shadow.png",
+        "source": "/home/jaykayitare/AndroidStudioProjects/ReadersOnly/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.0/res/drawable-hdpi/messenger_button_send_round_shadow.png"
+    },
+    {
         "merged": "/home/jaykayitare/AndroidStudioProjects/ReadersOnly/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_spinner_mtrl_am_alpha.9.png",
         "source": "/home/jaykayitare/AndroidStudioProjects/ReadersOnly/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-hdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
     },
     {
+        "merged": "/home/jaykayitare/AndroidStudioProjects/ReadersOnly/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/com_facebook_button_like_icon_selected.png",
+        "source": "/home/jaykayitare/AndroidStudioProjects/ReadersOnly/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.0/res/drawable-hdpi/com_facebook_button_like_icon_selected.png"
+    },
+    {
         "merged": "/home/jaykayitare/AndroidStudioProjects/ReadersOnly/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_menu_selectall_material.png",
         "source": "/home/jaykayitare/AndroidStudioProjects/ReadersOnly/app/build/generated/res/pngs/debug/drawable-hdpi/abc_ic_menu_selectall_material.png"
+    },
+    {
+        "merged": "/home/jaykayitare/AndroidStudioProjects/ReadersOnly/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/com_facebook_button_icon_blue.png",
+        "source": "/home/jaykayitare/AndroidStudioProjects/ReadersOnly/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.0/res/drawable-hdpi/com_facebook_button_icon_blue.png"
     },
     {
         "merged": "/home/jaykayitare/AndroidStudioProjects/ReadersOnly/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_list_longpressed_holo.9.png",
@@ -32,8 +60,24 @@
         "source": "/home/jaykayitare/AndroidStudioProjects/ReadersOnly/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-hdpi-v4/abc_ic_star_black_36dp.png"
     },
     {
+        "merged": "/home/jaykayitare/AndroidStudioProjects/ReadersOnly/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/messenger_bubble_small_blue.png",
+        "source": "/home/jaykayitare/AndroidStudioProjects/ReadersOnly/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.0/res/drawable-hdpi/messenger_bubble_small_blue.png"
+    },
+    {
+        "merged": "/home/jaykayitare/AndroidStudioProjects/ReadersOnly/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/messenger_bubble_small_white.png",
+        "source": "/home/jaykayitare/AndroidStudioProjects/ReadersOnly/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.0/res/drawable-hdpi/messenger_bubble_small_white.png"
+    },
+    {
         "merged": "/home/jaykayitare/AndroidStudioProjects/ReadersOnly/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png",
         "source": "/home/jaykayitare/AndroidStudioProjects/ReadersOnly/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "/home/jaykayitare/AndroidStudioProjects/ReadersOnly/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/com_facebook_tooltip_black_bottomnub.png",
+        "source": "/home/jaykayitare/AndroidStudioProjects/ReadersOnly/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.0/res/drawable-hdpi/com_facebook_tooltip_black_bottomnub.png"
+    },
+    {
+        "merged": "/home/jaykayitare/AndroidStudioProjects/ReadersOnly/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/com_facebook_close.png",
+        "source": "/home/jaykayitare/AndroidStudioProjects/ReadersOnly/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.0/res/drawable-hdpi/com_facebook_close.png"
     },
     {
         "merged": "/home/jaykayitare/AndroidStudioProjects/ReadersOnly/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png",
@@ -48,8 +92,16 @@
         "source": "/home/jaykayitare/AndroidStudioProjects/ReadersOnly/app/build/generated/res/pngs/debug/drawable-hdpi/abc_ic_go_search_api_material.png"
     },
     {
+        "merged": "/home/jaykayitare/AndroidStudioProjects/ReadersOnly/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/com_facebook_tooltip_black_xout.png",
+        "source": "/home/jaykayitare/AndroidStudioProjects/ReadersOnly/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.0/res/drawable-hdpi/com_facebook_tooltip_black_xout.png"
+    },
+    {
         "merged": "/home/jaykayitare/AndroidStudioProjects/ReadersOnly/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png",
         "source": "/home/jaykayitare/AndroidStudioProjects/ReadersOnly/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-hdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/jaykayitare/AndroidStudioProjects/ReadersOnly/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/com_facebook_button_send_icon_blue.png",
+        "source": "/home/jaykayitare/AndroidStudioProjects/ReadersOnly/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.0/res/drawable-hdpi/com_facebook_button_send_icon_blue.png"
     },
     {
         "merged": "/home/jaykayitare/AndroidStudioProjects/ReadersOnly/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_arrow_forward_white_24px.png",
@@ -68,6 +120,10 @@
         "source": "/home/jaykayitare/AndroidStudioProjects/ReadersOnly/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-hdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png"
     },
     {
+        "merged": "/home/jaykayitare/AndroidStudioProjects/ReadersOnly/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/messenger_bubble_large_white.png",
+        "source": "/home/jaykayitare/AndroidStudioProjects/ReadersOnly/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.0/res/drawable-hdpi/messenger_bubble_large_white.png"
+    },
+    {
         "merged": "/home/jaykayitare/AndroidStudioProjects/ReadersOnly/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_list_pressed_holo_dark.9.png",
         "source": "/home/jaykayitare/AndroidStudioProjects/ReadersOnly/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-hdpi-v4/abc_list_pressed_holo_dark.9.png"
     },
@@ -80,12 +136,20 @@
         "source": "/home/jaykayitare/AndroidStudioProjects/ReadersOnly/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-hdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png"
     },
     {
+        "merged": "/home/jaykayitare/AndroidStudioProjects/ReadersOnly/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/com_facebook_tooltip_blue_background.9.png",
+        "source": "/home/jaykayitare/AndroidStudioProjects/ReadersOnly/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.0/res/drawable-hdpi/com_facebook_tooltip_blue_background.9.png"
+    },
+    {
         "merged": "/home/jaykayitare/AndroidStudioProjects/ReadersOnly/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_textfield_default_mtrl_alpha.9.png",
         "source": "/home/jaykayitare/AndroidStudioProjects/ReadersOnly/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-hdpi-v4/abc_textfield_default_mtrl_alpha.9.png"
     },
     {
         "merged": "/home/jaykayitare/AndroidStudioProjects/ReadersOnly/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_cab_background_top_mtrl_alpha.9.png",
         "source": "/home/jaykayitare/AndroidStudioProjects/ReadersOnly/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-hdpi-v4/abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/jaykayitare/AndroidStudioProjects/ReadersOnly/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/com_facebook_tooltip_black_background.9.png",
+        "source": "/home/jaykayitare/AndroidStudioProjects/ReadersOnly/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.0/res/drawable-hdpi/com_facebook_tooltip_black_background.9.png"
     },
     {
         "merged": "/home/jaykayitare/AndroidStudioProjects/ReadersOnly/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_list_focused_holo.9.png",
@@ -116,12 +180,20 @@
         "source": "/home/jaykayitare/AndroidStudioProjects/ReadersOnly/app/build/generated/res/pngs/debug/drawable-hdpi/abc_ic_clear_material.png"
     },
     {
+        "merged": "/home/jaykayitare/AndroidStudioProjects/ReadersOnly/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/com_facebook_button_icon_white.png",
+        "source": "/home/jaykayitare/AndroidStudioProjects/ReadersOnly/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.0/res/drawable-hdpi/com_facebook_button_icon_white.png"
+    },
+    {
         "merged": "/home/jaykayitare/AndroidStudioProjects/ReadersOnly/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png",
         "source": "/home/jaykayitare/AndroidStudioProjects/ReadersOnly/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-hdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png"
     },
     {
         "merged": "/home/jaykayitare/AndroidStudioProjects/ReadersOnly/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_menu_paste_material.png",
         "source": "/home/jaykayitare/AndroidStudioProjects/ReadersOnly/app/build/generated/res/pngs/debug/drawable-hdpi/abc_ic_menu_paste_material.png"
+    },
+    {
+        "merged": "/home/jaykayitare/AndroidStudioProjects/ReadersOnly/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/messenger_bubble_large_blue.png",
+        "source": "/home/jaykayitare/AndroidStudioProjects/ReadersOnly/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.0/res/drawable-hdpi/messenger_bubble_large_blue.png"
     },
     {
         "merged": "/home/jaykayitare/AndroidStudioProjects/ReadersOnly/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_btn_rating_star_off_mtrl_alpha.png",
@@ -142,6 +214,10 @@
     {
         "merged": "/home/jaykayitare/AndroidStudioProjects/ReadersOnly/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_switch_track_mtrl_alpha.9.png",
         "source": "/home/jaykayitare/AndroidStudioProjects/ReadersOnly/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-hdpi-v4/abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/jaykayitare/AndroidStudioProjects/ReadersOnly/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/com_facebook_tooltip_blue_xout.png",
+        "source": "/home/jaykayitare/AndroidStudioProjects/ReadersOnly/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.0/res/drawable-hdpi/com_facebook_tooltip_blue_xout.png"
     },
     {
         "merged": "/home/jaykayitare/AndroidStudioProjects/ReadersOnly/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_btn_checkbox_checked_mtrl.png",
@@ -178,6 +254,10 @@
     {
         "merged": "/home/jaykayitare/AndroidStudioProjects/ReadersOnly/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png",
         "source": "/home/jaykayitare/AndroidStudioProjects/ReadersOnly/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-hdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/home/jaykayitare/AndroidStudioProjects/ReadersOnly/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/com_facebook_tooltip_blue_bottomnub.png",
+        "source": "/home/jaykayitare/AndroidStudioProjects/ReadersOnly/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.0/res/drawable-hdpi/com_facebook_tooltip_blue_bottomnub.png"
     },
     {
         "merged": "/home/jaykayitare/AndroidStudioProjects/ReadersOnly/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_scrubber_control_off_mtrl_alpha.png",
