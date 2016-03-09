@@ -1,11 +1,15 @@
 package com.example.jaykayitare.readersonly;
 
+import android.app.Activity;
 import android.content.Intent;
+import android.provider.SyncStateContract;
 
+import com.badoo.mobile.util.WeakHandler;
 import com.daimajia.androidanimations.library.Techniques;
 import com.viksaa.sssplash.lib.activity.AwesomeSplash;
 import com.viksaa.sssplash.lib.cnst.Flags;
 import com.viksaa.sssplash.lib.model.ConfigSplash;
+
 
 /**
  * Created by varsovski on 28-Sep-15.
@@ -57,11 +61,29 @@ public class SplashScreen extends AwesomeSplash {
 
         }
 
-        @Override
-        public void animationsFinished() {
+    @Override
+    public void animationsFinished() {
 
-            //transit to another activity the activity here
-            Intent intent = new Intent(SplashScreen.this,Landing_Page.class);
-            startActivity(intent);
-        }
+        //transit to another activity the activity here
+        Thread timerThread = new Thread(){
+            public void run(){
+                try{
+                    sleep(3000);
+                }catch(InterruptedException e){
+                    e.printStackTrace();
+                }finally{
+//                    Intent intent = new Intent(SplashScreen.this,App_Activity.class);
+//                    startActivity(intent);
+                }
+            }
+        };
+        timerThread.start();
     }
+    @Override
+    public void onStop(){
+        super.onStop();
+        Intent intent = new Intent(getApplicationContext(),App_Activity.class);
+        startActivity(intent);
+    }
+
+}
