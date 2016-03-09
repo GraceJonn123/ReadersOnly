@@ -40,12 +40,12 @@
         "source": "/home/jaykayitare/AndroidStudioProjects/ReadersOnly/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/color/abc_background_cache_hint_selector_material_dark.xml"
     },
     {
-        "merged": "/home/jaykayitare/AndroidStudioProjects/ReadersOnly/app/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
-        "source": "/home/jaykayitare/AndroidStudioProjects/ReadersOnly/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/color/switch_thumb_material_light.xml"
-    },
-    {
         "merged": "/home/jaykayitare/AndroidStudioProjects/ReadersOnly/app/build/intermediates/res/merged/debug/color/com_facebook_send_button_text_color.xml",
         "source": "/home/jaykayitare/AndroidStudioProjects/ReadersOnly/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.0/res/color/com_facebook_send_button_text_color.xml"
+    },
+    {
+        "merged": "/home/jaykayitare/AndroidStudioProjects/ReadersOnly/app/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
+        "source": "/home/jaykayitare/AndroidStudioProjects/ReadersOnly/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/color/switch_thumb_material_light.xml"
     },
     {
         "merged": "/home/jaykayitare/AndroidStudioProjects/ReadersOnly/app/build/intermediates/res/merged/debug/color/abc_background_cache_hint_selector_material_light.xml",

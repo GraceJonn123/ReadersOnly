@@ -16,4 +16,10 @@
         completions."
     </string>
     <string name="facebook_app_id">1684604188482996</string>
+    <string name="twitter_consumer_key">
+            MbNKfIkVpTkLDUuAvnWjPjjz2
+        </string>
+    <string name="twitter_consumer_secret">
+    	lJgKAX4apv6F90FzCqhKXz587sQcby2fNMABADUjNEGyrXnPSz
+</string>
 </resources>

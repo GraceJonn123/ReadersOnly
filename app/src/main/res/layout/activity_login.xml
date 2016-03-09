@@ -71,7 +71,34 @@
                 android:layout_marginTop="16dp"
                 android:text="@string/action_sign_in"
                 android:textStyle="bold" />
-
+            <Button
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="Login via Facebook"
+                android:id="@+id/facebook"
+                android:layout_gravity="center_horizontal"
+                android:background="#3b5998"
+                android:layout_margin="8dp"
+                android:textColor="#ffffffff" />
+            <Button
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="Login via Twitter"
+                android:id="@+id/twitter"
+                android:layout_gravity="center_horizontal"
+                android:background="#55ACEE"
+                android:layout_margin="8dp"
+                android:textColor="#ffffffff"/>
+            <Button
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="Login via LinkedIn"
+                android:id="@+id/linkedin"
+                android:layout_gravity="center_horizontal"
+                android:background="#287bbc"
+                android:layout_margin="8dp"
+                android:textColor="#ffffffff"/>
         </LinearLayout>
+
     </ScrollView>
 </LinearLayout>

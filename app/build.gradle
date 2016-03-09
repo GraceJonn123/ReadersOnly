@@ -6,7 +6,7 @@ android {
 
     defaultConfig {
         applicationId "com.example.jaykayitare.readersonly"
-        minSdkVersion 16
+        minSdkVersion 19
         targetSdkVersion 23
         versionCode 1
         versionName "1.0"
@@ -26,4 +26,7 @@ dependencies {
     compile 'com.github.paolorotolo:appintro:3.4.0'
     compile 'com.facebook.android:facebook-android-sdk:[4,5)'
     compile 'com.android.support:design:23.2.0'
+    compile 'com.github.asne:asne-facebook:0.3.1'
+    compile 'com.github.asne:asne-linkedin:0.3.1'
+    compile 'com.github.asne:asne-twitter:0.3.1'
 }

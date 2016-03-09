@@ -378,6 +378,12 @@
     <string name="skip_button">SKIP</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="title_activity_login">Sign in</string>
+    <string name="twitter_consumer_key">
+            MbNKfIkVpTkLDUuAvnWjPjjz2
+        </string>
+    <string name="twitter_consumer_secret">
+    	lJgKAX4apv6F90FzCqhKXz587sQcby2fNMABADUjNEGyrXnPSz
+</string>
     <style name="AlertDialog.AppCompat" parent="Base.AlertDialog.AppCompat"/>
     <style name="AlertDialog.AppCompat.Light" parent="Base.AlertDialog.AppCompat.Light"/>
     <style name="Animation.AppCompat.Dialog" parent="Base.Animation.AppCompat.Dialog"/>
