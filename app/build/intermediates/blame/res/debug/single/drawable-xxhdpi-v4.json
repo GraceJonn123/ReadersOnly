@@ -44,12 +44,12 @@
         "source": "/home/jaykayitare/AndroidStudioProjects/ReadersOnly/app/build/generated/res/pngs/debug/drawable-xxhdpi/abc_ic_voice_search_api_material.png"
     },
     {
-        "merged": "/home/jaykayitare/AndroidStudioProjects/ReadersOnly/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_clear_material.png",
-        "source": "/home/jaykayitare/AndroidStudioProjects/ReadersOnly/app/build/generated/res/pngs/debug/drawable-xxhdpi/abc_ic_clear_material.png"
-    },
-    {
         "merged": "/home/jaykayitare/AndroidStudioProjects/ReadersOnly/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_textfield_activated_mtrl_alpha.9.png",
         "source": "/home/jaykayitare/AndroidStudioProjects/ReadersOnly/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-xxhdpi-v4/abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/jaykayitare/AndroidStudioProjects/ReadersOnly/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_clear_material.png",
+        "source": "/home/jaykayitare/AndroidStudioProjects/ReadersOnly/app/build/generated/res/pngs/debug/drawable-xxhdpi/abc_ic_clear_material.png"
     },
     {
         "merged": "/home/jaykayitare/AndroidStudioProjects/ReadersOnly/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/messenger_button_send_round_shadow.png",
@@ -116,12 +116,12 @@
         "source": "/home/jaykayitare/AndroidStudioProjects/ReadersOnly/app/build/generated/res/pngs/debug/drawable-xxhdpi/abc_btn_checkbox_unchecked_mtrl.png"
     },
     {
-        "merged": "/home/jaykayitare/AndroidStudioProjects/ReadersOnly/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/messenger_bubble_small_white.png",
-        "source": "/home/jaykayitare/AndroidStudioProjects/ReadersOnly/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.0/res/drawable-xxhdpi/messenger_bubble_small_white.png"
-    },
-    {
         "merged": "/home/jaykayitare/AndroidStudioProjects/ReadersOnly/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png",
         "source": "/home/jaykayitare/AndroidStudioProjects/ReadersOnly/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-xxhdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/jaykayitare/AndroidStudioProjects/ReadersOnly/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/messenger_bubble_small_white.png",
+        "source": "/home/jaykayitare/AndroidStudioProjects/ReadersOnly/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.0/res/drawable-xxhdpi/messenger_bubble_small_white.png"
     },
     {
         "merged": "/home/jaykayitare/AndroidStudioProjects/ReadersOnly/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_switch_track_mtrl_alpha.9.png",
