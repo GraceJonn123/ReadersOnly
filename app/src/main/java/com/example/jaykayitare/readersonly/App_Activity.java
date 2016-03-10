@@ -2,7 +2,6 @@ package com.example.jaykayitare.readersonly;
 
 import android.os.Bundle;
 import android.content.Intent;
-import android.os.Bundle;
 import android.widget.Toast;
 
 import com.github.paolorotolo.appintro.AppIntro;
@@ -32,7 +31,7 @@ public class App_Activity  extends AppIntro {
 
     //
     private void loadMainActivity(){
-        Intent intent = new Intent(this, Landing_Page.class);
+        Intent intent = new Intent(this, CardView.class);
         startActivity(intent);
     }
     @Override

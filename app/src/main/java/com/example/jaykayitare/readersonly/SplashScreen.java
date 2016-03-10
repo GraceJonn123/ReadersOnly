@@ -64,26 +64,25 @@ public class SplashScreen extends AwesomeSplash {
     @Override
     public void animationsFinished() {
 
-        //transit to another activity the activity here
-        Thread timerThread = new Thread(){
-            public void run(){
-                try{
-                    sleep(3000);
-                }catch(InterruptedException e){
-                    e.printStackTrace();
-                }finally{
-//                    Intent intent = new Intent(SplashScreen.this,App_Activity.class);
-//                    startActivity(intent);
-                }
-            }
-        };
-        timerThread.start();
-    }
-    @Override
-    public void onStop(){
-        super.onStop();
-        Intent intent = new Intent(getApplicationContext(),App_Activity.class);
-        startActivity(intent);
+//        //transit to another activity the activity here
+//        Thread timerThread = new Thread(){
+//            public void run(){
+//                try{
+//                    sleep(3000);
+//                }catch(InterruptedException e){
+//                    e.printStackTrace();
+//                }finally{
+////                    Intent intent = new Intent(SplashScreen.this,App_Activity.class);
+////                    startActivity(intent);
+//                }
+//            }
+//        };
+//        timerThread.start();
+            super.onStop();
+            Intent intent = new Intent(getApplicationContext(),App_Activity.class);
+            startActivity(intent);
+        }
     }
 
-}
+
+
